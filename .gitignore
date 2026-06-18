@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local information
+requirements.md
+sending-parties.md
+data-sample.csv
+
+# Azure Functions local secrets
+creative-therapies-notification/local.settings.json.example
+creative-therapies-notification/local.settings.json
+creative-therapies-notification/DEPLOYMENT.md
