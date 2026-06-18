@@ -226,3 +226,6 @@ data-sample.csv
 creative-therapies-notification/local.settings.json.example
 creative-therapies-notification/local.settings.json
 creative-therapies-notification/DEPLOYMENT.md
+
+# Azure Functions bundled dependencies (Windows build — not compatible with Azure Linux runtime)
+.python_packages/
