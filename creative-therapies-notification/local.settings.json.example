@@ -8,6 +8,6 @@
     "BLOB_CONTAINER_NAME": "<container name where the CSV is stored>",
     "BLOB_FILENAME": "<filename of the CSV, e.g. creative-therapies-data.csv>",
 
-    "POWER_AUTOMATE_WEBHOOK_URL": "<Power Automate HTTP trigger URL> https://default6fdf5daea46c47949ee2686b356621.17.environment.api.powerplatform.com:443/powerautomate/automations/direct/workflows/9c9b8e8cb1a84a03a5282b8dca06f0a5/triggers/manual/paths/invoke?api-version=1&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=WP1bTux1uAvspjQvEN41H6ZrDulxRKs5HXYChSiA5-4" 
+    "POWER_AUTOMATE_WEBHOOK_URL": "<Power Automate HTTP trigger URL>" 
   }
 }
