@@ -1,1 +1,19 @@
+# Virtual environment — never deploy Windows binaries to Azure Linux runtime
 .venv
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Local settings — contains secrets, not for deployment
+local.settings.json
+
+# Deployment artifacts — the zip itself should not be bundled into a deploy
+*.zip
+
+# Windows-built bundled packages — incompatible with Azure Linux runtime
+.python_packages/
+
+# Developer and documentation files
+DEPLOYMENT.md
+.funcignore

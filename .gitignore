@@ -222,8 +222,7 @@ requirements.md
 sending-parties.md
 data-sample.csv
 
-# Azure Functions local secrets
-creative-therapies-notification/local.settings.json.example
+# Azure Functions local secrets (keep .example in git — it's a template, not secrets)
 creative-therapies-notification/local.settings.json
 creative-therapies-notification/DEPLOYMENT.md
 
